@@ -64,21 +64,20 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rd10code&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rd10code&theme=tokyonight&show_icons=true" />
 </p>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Rd10code&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Rd10code&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rd10code&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rd10code&theme=tokyonight&layout=compact" />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rd10code&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-trophies.vercel.app/?username=Rd10code&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
 </p>
